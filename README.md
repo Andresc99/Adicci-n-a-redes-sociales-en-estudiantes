@@ -15,9 +15,9 @@ Este es un análisis descriptivo que busca determinar cómo se distribuyen los d
 
 🚀 Tecnologías Utilizadas
 
-SQL: Para la extracción, transformación y consulta de los datos.
-Power BI: Para la creación de visualizaciones y dashboards interactivos.
-Notion: Para la documentación y gestión del proyecto.
+- SQL: Para la extracción, transformación y consulta de los datos.
+- Power BI: Para la creación de visualizaciones y dashboards interactivos.
+- Notion: Para la documentación y gestión del proyecto.
 
 Enlace al Dataset: https://drive.google.com/file/d/17nDjgBRGOZ-kEbiokzQI1ka6DS3XYRsB/view?usp=drive_link
 
