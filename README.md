@@ -27,11 +27,11 @@ A continuación, se presentan los principales descubrimientos del análisis, div
 
 1. Demografía y Uso General
 
-Género: Los estudiantes hombres tienden a pasar más tiempo en redes sociales que las mujeres.
+- Género: Los estudiantes hombres tienden a pasar más tiempo en redes sociales que las mujeres.
 
-País: Estados Unidos (6.89h), Emiratos Árabes Unidos (6.72h) y México (6.42h) son los países con los promedios más altos de uso diario.
+- País: Estados Unidos (6.89h), Emiratos Árabes Unidos (6.72h) y México (6.42h) son los países con los promedios más altos de uso diario.
 
-Nivel Académico y Adicción: Los estudiantes de High School (escuela superior) presentan el puntaje de adicción promedio más alto (8.04 sobre 10). Esto sugiere que son un grupo particularmente vulnerable.
+- Nivel Académico y Adicción: Los estudiantes de High School (escuela superior) presentan el puntaje de adicción promedio más alto (8.04 sobre 10). Esto sugiere que son un grupo particularmente vulnerable.
 
 <img width="556" height="561" alt="image" src="https://github.com/user-attachments/assets/4731f8bc-a396-4935-8891-15e38df1843b" />
 
