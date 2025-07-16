@@ -37,9 +37,9 @@ A continuación, se presentan los principales descubrimientos del análisis, div
 
 2. Plataformas y Comportamiento
 
-Plataformas Dominantes: Instagram y TikTok son, con diferencia, las redes sociales más utilizadas por la población estudiantil analizada.
+- Plataformas Dominantes: Instagram y TikTok son, con diferencia, las redes sociales más utilizadas por la población estudiantil analizada.
 
-Impacto de TikTok: El hallazgo más alarmante es que el 93.51% de los estudiantes que usan TikTok como su plataforma principal reportan un impacto negativo en su rendimiento académico.
+- Impacto de TikTok: El hallazgo más alarmante es que el 93.51% de los estudiantes que usan TikTok como su plataforma principal reportan un impacto negativo en su rendimiento académico.
 
 <img width="560" height="501" alt="image" src="https://github.com/user-attachments/assets/d160dda4-e465-4f03-a212-018f0f67fa69" />
 
@@ -57,9 +57,9 @@ Salud Mental y Sueño: Los estudiantes con una puntuación de salud mental baja 
 
 4. Relaciones Personales y Adicción
 
-Adicción y Conflictos: Un puntaje de adicción más alto se correlaciona directamente con un mayor número de conflictos personales reportados.
+- Adicción y Conflictos: Un puntaje de adicción más alto se correlaciona directamente con un mayor número de conflictos personales reportados.
 
-Estado Sentimental: Aunque los estudiantes "Solteros" y "En Relación" tienen índices de adicción ligeramente más altos, aquellos con un estado "Complicado" son los que reportan la mayor cantidad de conflictos personales (un promedio de 3.03 conflictos).
+- Estado Sentimental: Aunque los estudiantes "Solteros" y "En Relación" tienen índices de adicción ligeramente más altos, aquellos con un estado "Complicado" son los que reportan la mayor cantidad de conflictos personales (un promedio de 3.03 conflictos).
 
 <img width="562" height="665" alt="image" src="https://github.com/user-attachments/assets/e0204d1d-43bf-4f45-ab31-49c8ae54dbbe" />
 
@@ -67,7 +67,7 @@ Estado Sentimental: Aunque los estudiantes "Solteros" y "En Relación" tienen í
 
 Se identificó un grupo de estudiantes con un uso extremo de redes sociales:
 
-Perfil: Muestran niveles de adicción muy altos (9.00/10) y una salud mental deficiente (5.00/10), por debajo del promedio general.
+- Perfil: Muestran niveles de adicción muy altos (9.00/10) y una salud mental deficiente (5.00/10), por debajo del promedio general.
 
 Demografía: Este grupo está compuesto mayoritariamente por mujeres residentes en EE. UU., India y Rusia.
 <img width="562" height="429" alt="image" src="https://github.com/user-attachments/assets/baf20ae1-3c57-45c3-ad3c-92606caba2b3" />
@@ -80,4 +80,5 @@ Un hallazgo particularmente interesante es la existencia de un grupo de estudian
 
 
 
-Explora el archivo Answers.sql para ver todas las consultas utilizadas en el análisis.
+Explora el archivo Answers.sql para ver todas las consultas utilizadas en el análisis y tambien visita
+- <iframe src="https://amused-vicuna-2ec.notion.site/ebd/1fa83088b3f980a597f4f7b20a433f95" width="100%" height="600" frameborder="0" allowfullscreen />
