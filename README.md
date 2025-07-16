@@ -81,4 +81,4 @@ Un hallazgo particularmente interesante es la existencia de un grupo de estudian
 
 
 Explora el archivo Answers.sql para ver todas las consultas utilizadas en el análisis y tambien visita
-- <iframe src="https://amused-vicuna-2ec.notion.site/ebd/1fa83088b3f980a597f4f7b20a433f95" width="100%" height="600" frameborder="0" allowfullscreen />
+- https://amused-vicuna-2ec.notion.site/ebd/1fa83088b3f980a597f4f7b20a433f95
